@@ -1,0 +1,27 @@
+.winner{
+	color: green;
+}
+
+.container{
+	text-align: center;
+}
+body {
+	font-family: 'Krona One', sans-serif;
+	background-color: #dcaaf2;
+    color:#35074a;
+}
+input {
+	border-radius: 8px;
+	padding: 12px 28px;
+}
+.boton{
+	border-radius: 8px;
+	padding: 12px 28px;
+	transition-duration: 0.4s;
+
+}
+
+.boton:hover {
+	background-color: #35074a;
+  	color: white;
+}
